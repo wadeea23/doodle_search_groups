@@ -5,7 +5,7 @@
 DoodleDex is an image retrieval system that finds drawings similar to a hand-drawn sketch. It uses deep learning to extract image features and compare drawings to find the closest matches.
 The project uses MobileNetV2 for feature extraction and cosine similarity with nearest-neighbor search to retrieve similar images. Unlike image classification, the goal is not to predict the category of a drawing, but to find other drawings that look similar to it.
 
-### App: ``
+### App: `https://doodlesearchgroups.streamlit.app/`
 
 ### Dataset
 The project uses Google's Quick, Draw dataset and includes 15 categories of fruits and vegetables:
