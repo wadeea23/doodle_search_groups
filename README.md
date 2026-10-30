@@ -49,7 +49,10 @@ Another possible improvement is to experiment with CLIP-based embeddings and exp
 
 ### Authors
 Wadeea Almutawaa
+
 Noor Taqi
+
 Fatema Mohamed
+
 Data Science and Machine Learning Project
 
