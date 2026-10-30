@@ -60,13 +60,10 @@ The system focuses on visual similarity rather than predicting image categories.
 ### Installation and Setup
 
 The project was developed in Google Colab and deployed as a Streamlit web application.
-
 To explore the project, open the project notebook in Google Colab and run the cells in order. The notebook handles image preprocessing, feature extraction, embedding generation, and similarity search.
-
 Users can also access the deployed Streamlit application directly through the app link and test the image retrieval system.
 
 ### Future Improvements
-
 There are several ways to improve DoodleDex in the future:
 
 - Adding more doodle categories.
