@@ -30,7 +30,7 @@ gallery_images, gallery_embeddings, backbone = load_model()
 
 
 # Website
-st.title("DoodleDex Draw 🎨🖼️")
+st.title("DoodleDex Draw 🎨")
 
 option = st.radio(
     "Choose how to provide your doodle:",
