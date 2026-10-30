@@ -52,7 +52,7 @@ Wadeea Almutawaa
 
 Noor Taqi
 
-Fatema Mohamed
+Fatema Mohammed
 
 Data Science and Machine Learning Project
 
