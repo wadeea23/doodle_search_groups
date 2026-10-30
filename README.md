@@ -9,6 +9,7 @@ The project uses MobileNetV2 for feature extraction and cosine similarity with n
 ### Streamlit Application
 DoodleDex also includes a Streamlit web application that allows users to interact with the image retrieval system.
 Users can upload an image or take a picture directly using their camera. The system processes the input image, searches the gallery, and displays the top 25 most visually similar drawings along with their similarity scores.
+
 **App:** https://doodlesearchgroups.streamlit.app/
 
 ### Dataset
